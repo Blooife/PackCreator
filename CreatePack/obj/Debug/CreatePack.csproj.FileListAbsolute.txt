@@ -1,0 +1,15 @@
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\bin\Debug\CreatePack.exe.config
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\bin\Debug\CreatePack.exe
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\bin\Debug\CreatePack.pdb
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.Properties.Resources.resources
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.csproj.GenerateResource.cache
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.exe
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.pdb
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.Form1.resources
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.AddT.resources
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.AddQ.resources
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Asus\RiderProjects\CreatePack\CreatePack\obj\Debug\CreatePack.csproj.CopyComplete
